@@ -25,7 +25,7 @@ Este es un proyecto simple de encriptado de texto. Puedes encriptar y desencript
 ## 📸 Capturas de Pantalla
 
 ### Vista Principal
-![image](https://github.com/user-attachments/assets/b1fec085-6b2f-414f-956a-1632f4f7da44)
+![image](https://github.com/user-attachments/assets/d040882a-e0eb-4bfe-af5d-bd84d1c30b08)
 
 ## 🛠️ Instalación
 
